@@ -1,0 +1,45 @@
+body
+{
+    font-family: 'Qwitcher Grypen', cursive;
+    background: #43e398;
+}
+
+.header_div
+{
+    background: white;
+    color: #ce2700;
+}
+
+#result_label, #result_confidence
+{
+    font-size: 30px;
+}
+
+.header_div p{
+    font-size: 30px;
+    font-family: 'Qwitcher Grypen', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Qwitcher Grypen', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+font-size: 30px;
+position: fixed;
+color: #040e18;
+bottom:0;
+width: 100%;
+background-color: #f5f5f5;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(1, 20, 12);
+}
